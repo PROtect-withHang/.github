@@ -237,14 +237,19 @@ docker compose -f docker-compose.prod.yml up -d --build
 
 ## 📍 7. 화면
 
+#### 행원 메인
 <!-- 이미지 자리: 행원 메인 -->
-<img width="" height="" alt="행원 메인 — 상담 기록·본부 지침·사내 게시판" src="" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/d6676272-1955-47db-8d31-d905f256b7fa" />
 
+#### 상담 중 화면
 <!-- 이미지 자리: 상담 중 화면 -->
-<img width="" height="" alt="상담 중 — 실시간 자막·키워드 칩·RAG 답변 카드·AI 질의" src="" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/607403dc-27bf-4183-ad6a-6aedc2652cb0" />
 
+#### 상담 정리 화면
 <!-- 이미지 자리: 상담 정리 화면 -->
-<img width="" height="" alt="상담 정리 — 요약 3항목·필수 고지 점검·누락 안내 문자" src="" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/49eb9bb6-8500-4ccf-b77a-5922b2234271" />
 
+#### 본부 메인
 <!-- 이미지 자리: 본부 메인 -->
-<img width="" height="" alt="본부 메인 — 이번 주 질의 Top5·대응 지침 등록·게시글 자동 작성" src="" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/c69ceaf7-eb05-4418-974e-fbeca5110a1d" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/13f5f6c6-c4be-49d8-8755-48335d239994" />
