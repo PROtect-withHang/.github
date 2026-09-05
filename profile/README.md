@@ -1,6 +1,7 @@
 # 연금사수 — 퇴직연금 창구 상담 지원 시스템
 
 > <!-- 과정명·기수·팀 소개 자리 -->
+<img width="2816" height="1536" alt="연금사수 logo" src="https://github.com/user-attachments/assets/c235af21-ff46-476a-9f49-fea4ada70df8" />
 
 ## 📍 1. 프로젝트 개요
 
